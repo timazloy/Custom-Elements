@@ -4,5 +4,5 @@
 ###### Аккордеон: https://codepen.io/timazloy/pen/abYaPRR?editors=1011
 ###### Custom-select с поиском: https://codepen.io/timazloy/pen/ZEabLMp
 ###### Custom-select с поиском и рендером: https://codepen.io/timazloy/pen/porWmJV
-###### Множественный select с поиском и выводом адресной строки в консоль: https://codepen.io/timazloy/pen/wvYdOjL?editors=1111
-###### Множественный select с поиском, выбором подкатегории и выводом адресной строки в консоль: https://codepen.io/timazloy/pen/abRwdgX?editors=1011 
+###### Множественный select с поиском: https://codepen.io/timazloy/pen/wvYdOjL?editors=1111
+###### Множественный select с поиском и выбором подкатегории: https://codepen.io/timazloy/pen/abRwdgX?editors=1011 
