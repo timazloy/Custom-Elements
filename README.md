@@ -1,5 +1,6 @@
 # Custom-Elements
 ## Просто делаю всякие штуки
+###### Слайдер: https://codepen.io/timazloy/pen/qBJYLrw?editors=0111
 ###### Модальное окно: https://codepen.io/timazloy/pen/WNaRmWp?editors=1011
 ###### Аккордеон: https://codepen.io/timazloy/pen/abYaPRR?editors=1011
 ###### Custom-select с поиском: https://codepen.io/timazloy/pen/ZEabLMp
