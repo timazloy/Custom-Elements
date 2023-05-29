@@ -1,5 +1,5 @@
 # Custom-Elements
-## Просто делаю всякие штуки на ванильном JS
+## Делаю всякие штуки на ванильном JS
 ###### Выбор цвета + модалка: https://codepen.io/timazloy/pen/abRKEjX?editors=1011
 ###### Слайдер: https://codepen.io/timazloy/pen/qBJYLrw?editors=0111
 ###### Модальное окно: https://codepen.io/timazloy/pen/WNaRmWp?editors=1011
